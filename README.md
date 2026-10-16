@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-how-to-contribute)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-emerald.svg)](https://github.com/ishandutta2007/Awesome-AI-Software-Engineering/commits/main)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Software-Engineering?style=social)](https://github.com/ishandutta2007/Awesome-AI-Software-Engineering/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Software-Engineering?style=social)](https://github.com/ishandutta2007/Awesome-AI-Software-Engineering/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A Curated Index of SaaS Control Planes, Autonomous Coding Agents, Open-Source Frameworks & Spec-Driven SDLC Platforms**
@@ -27,7 +27,7 @@
 - [🌐 Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [⭐ Open-Source Software Engineering Ecosystem (Ranked by GitHub Stars)](#-open-source-software-engineering-ecosystem-ranked-by-github-stars)
+  - [⭐ Open-Source Software Engineering Ecosystem (Ranked by GitHub_Stars)](#-open-source-software-engineering-ecosystem-ranked-by-github-stars)
   - [🧬 AI-Native Specification &amp; Multi-Agent Frameworks](#-ai-native-specification--multi-agent-frameworks)
 - [🧠 Emerging AI Software Engineering Paradigms](#-emerging-ai-software-engineering-paradigms)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -84,77 +84,77 @@ The table below catalogs leading SaaS platforms acting as control planes and pro
 
 Open-source solutions provide developer autonomy, self-hosted data isolation, and deep extensibility.
 
-### ⭐ Open-Source Software Engineering Ecosystem (Ranked by GitHub Stars)
+### ⭐ Open-Source Software Engineering Ecosystem (Ranked by GitHub_Stars)
 
-*Sorted by **GitHub Star Count** in descending order:*
+*Sorted by **GitHub Stars_Count** in descending order:*
 
-1. **[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) 🤖  
+1. **[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub_Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) 🤖  
    *The premier open-source AI software development agent (formerly OpenDevin).* Capable of executing bash commands, reading/editing full codebases, running test suites, resolving GitHub issues, and opening complete pull requests autonomously.
 
-2. **[AppFlowy-IO / AppFlowy](https://github.com/appflowy-io/appflowy)** [![GitHub stars](https://img.shields.io/github/stars/appflowy-io/appflowy?style=social&color=white)](https://github.com/appflowy-io/appflowy/stargazers) 📑  
+2. **[AppFlowy-IO / AppFlowy](https://github.com/appflowy-io/appflowy)** [![GitHub_Stars](https://img.shields.io/github/stars/appflowy-io/appflowy?style=social&color=white)](https://github.com/appflowy-io/appflowy/stargazers) 📑  
    *Open-source, self-hosted workspace and project management alternative to Notion and Linear.* Built with Flutter and Rust, featuring AI-assisted document drafting, custom Kanban pipelines, and offline-first data sovereignty.
 
-3. **[Geekan / MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) 👥  
+3. **[Geekan / MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) 👥  
    *Multi-agent software engineering framework simulating an entire software team.* Takes a one-line prompt requirement and orchestrates simulated Product Managers, Architects, Project Managers, and Engineers to output PRDs, API designs, tasks, and full code implementations.
 
-4. **[Cline / Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers) 🛠️  
+4. **[Cline / Cline](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers) 🛠️  
    *Autonomous AI coding assistant for VS Code and CLI.* Directly modifies multi-file directories, executes shell commands, analyzes terminal outputs, and builds end-to-end features with step-by-step human verification loops.
 
-5. **[MakePlane / Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) ✈️  
+5. **[MakePlane / Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) ✈️  
    *Modern open-source software project management and issue tracker built as an extensible alternative to Jira and Linear.* Features cycles, modules, roadmaps, analytics, and rich webhooks for AI agent dispatch.
 
-6. **[Go-Gitea / Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers) 🍵  
+6. **[Go-Gitea / Gitea](https://github.com/go-gitea/gitea)** [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers) 🍵  
    *Painless, lightweight self-hosted Git service written in Go.* Features integrated issue tracking, pull request code reviews, milestone scheduling, Gitea Actions CI, and webhook dispatch for AI bot workflows.
 
-7. **[Odoo / Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 📦  
+7. **[Odoo / Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 📦  
    *Modular open-source business and ERP platform with comprehensive Project and Helpdesk modules.* Supports Agile Kanban flows, Gantt charts, automated task escalation, and automated issue routing.
 
-8. **[Aider-AI / Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers) 🧑‍💻  
+8. **[Aider-AI / Aider](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers) 🧑‍💻  
    *Leading AI pair programming terminal tool.* Edits local git repositories, executes multi-file code modifications, creates structured git commit messages automatically, and pairs with local or cloud LLMs.
 
-9. **[Frappe / ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 🏭  
+9. **[Frappe / ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 🏭  
    *Full-featured open-source ERP system.* Includes dedicated agile project management, bug tracking, task allocation, timesheets, and milestone tracking built on the reactive Frappe framework.
 
-10. **[ContinueDev / Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) ⏩  
+10. **[ContinueDev / Continue](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) ⏩  
     *The leading open-source AI code assistant extension for VS Code and JetBrains.* Connects custom local (Ollama/vLLM) or remote models, enables codebase-wide contextual search, and auto-generates unit tests and documentation.
 
-11. **[OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers) 🏢  
+11. **[OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers) 🏢  
     *Virtual software development company powered by multi-agent conversational design.* Agents take specialized roles (CEO, CPO, CTO, Programmer, Reviewer, Tester) and communicate through chat chains to specify, code, test, and document software systems.
 
-12. **[TabbyML / Tabby](https://github.com/TabbyML/tabby)** [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers) 🐱  
+12. **[TabbyML / Tabby](https://github.com/TabbyML/tabby)** [![GitHub_Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers) 🐱  
     *Self-hosted AI coding assistant for secure, private enterprise environments.* Delivers fast inline code completions and repository-level contextual chat without sending code outside your private network.
 
-13. **[Pythagora-io / GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🧭  
+13. **[Pythagora-io / GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub_Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🧭  
     *Autonomous AI developer tool that writes full apps from scratch.* Breaks applications into architectural steps, asks clarifying questions, codes feature-by-feature, and debugs runtime errors iteratively.
 
-14. **[Mattermost / Focalboard](https://github.com/mattermost/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers) 📋  
+14. **[Mattermost / Focalboard](https://github.com/mattermost/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers) 📋  
     *Self-hosted open-source alternative to Trello, Notion, and Asana.* Provides Kanban boards, tables, calendars, and gallery views with native integration into Mattermost collaboration hubs.
 
-15. **[GitLab Community Edition / GitLab](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers) 🦊  
+15. **[GitLab Community Edition / GitLab](https://github.com/gitlabhq/gitlabhq)** [![GitHub_Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers) 🦊  
     *Complete open-source DevOps and lifecycle platform.* Offers unified issues, epics, sprint planning boards, CI/CD pipelines, and programmable webhooks for automated AI agent triggers.
 
-16. **[Wekan / Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers) 📑  
+16. **[Wekan / Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers) 📑  
     *Popular open-source Kanban board built with Meteor.* Supports swimlanes, card dependencies, custom fields, user permissions, and on-premise installation.
 
-17. **[OpenProject / OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) 🏰  
+17. **[OpenProject / OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) 🏰  
     *Comprehensive enterprise open-source project management suite.* Features Agile boards, Gantt roadmaps, bug tracking, cost reporting, and strict data privacy compliance (GDPR).
 
-18. **[SweepAI / Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers) 🧹  
+18. **[SweepAI / Sweep](https://github.com/sweepai/sweep)** [![GitHub_Stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers) 🧹  
     *Open-source AI junior developer that turns GitHub issues into bug fixes and feature PRs.* Reads issue descriptions, searches codebase symbols, modifies code, and triggers CI checks.
 
-19. **[Redmine / Redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers) 💎  
+19. **[Redmine / Redmine](https://github.com/redmine/redmine)** [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers) 💎  
     *Battle-tested, flexible open-source project management web application.* Features issue tracking, Gantt charts, wikis, per-project forums, role-based access, and an extensive Ruby plugin ecosystem.
 
-20. **[MantisBT / MantisBT](https://github.com/mantisbt/mantisbt)** [![GitHub stars](https://img.shields.io/github/stars/mantisbt/mantisbt?style=social&color=white)](https://github.com/mantisbt/mantisbt/stargazers) 🦗  
+20. **[MantisBT / MantisBT](https://github.com/mantisbt/mantisbt)** [![GitHub_Stars](https://img.shields.io/github/stars/mantisbt/mantisbt?style=social&color=white)](https://github.com/mantisbt/mantisbt/stargazers) 🦗  
     *Lightweight open-source bug tracker.* Built in PHP/MySQL, renowned for effortless installation, email notifications, multi-project support, and reliable issue triage.
 
-21. **[Bugzilla / Bugzilla](https://github.com/bugzilla/bugzilla)** [![GitHub stars](https://img.shields.io/github/stars/bugzilla/bugzilla?style=social&color=white)](https://github.com/bugzilla/bugzilla/stargazers) 🦖  
+21. **[Bugzilla / Bugzilla](https://github.com/bugzilla/bugzilla)** [![GitHub_Stars](https://img.shields.io/github/stars/bugzilla/bugzilla?style=social&color=white)](https://github.com/bugzilla/bugzilla/stargazers) 🦖  
     *The historic, enterprise-grade defect tracking system developed by Mozilla.* Engineered for massive scale, advanced search filters, scheduled reports, and rock-solid reliability.
 
-22. **[Taiga / Taiga-Back](https://github.com/taigaio/taiga-back)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social&color=white)](https://github.com/taigaio/taiga-back/stargazers) 🎯  
+22. **[Taiga / Taiga-Back](https://github.com/taigaio/taiga-back)** [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social&color=white)](https://github.com/taigaio/taiga-back/stargazers) 🎯  
     *Agile project management platform for Scrum and Kanban teams.* Features intuitive sprint backlogs, epics, user stories, issue tracking, and customizable dashboards.
 
-23. **[Edgewall / Trac](https://github.com/edgewall/trac)** [![GitHub stars](https://img.shields.io/github/stars/edgewall/trac?style=social&color=white)](https://github.com/edgewall/trac/stargazers) 🚂  
+23. **[Edgewall / Trac](https://github.com/edgewall/trac)** [![GitHub_Stars](https://img.shields.io/github/stars/edgewall/trac?style=social&color=white)](https://github.com/edgewall/trac/stargazers) 🚂  
     *Minimalist, enhanced wiki and issue tracking system for software engineering.* Integrates seamlessly with Subversion and Git, providing seamless hyperlinking across code revisions and tickets.
 
 ---
@@ -197,7 +197,7 @@ Contributions are warmly welcomed! Help keep this ecosystem guide up-to-date, fa
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`
 3. ✏️ **Edit `README.md`**:
    - For SaaS products: Include Name, Link, Company Size (Valuation/Revenue), exact starting tier pricing, and exact free tier limits.
-   - For Open-Source projects: Include repository URL, social star badge linking to `/stargazers`, and a concise 1–2 sentence description. Place the entry in the correct star-sorted position.
+   - For Open-Source projects: Include repository URL, social Stars_Badge linking to `/stargazers`, and a concise 1–2 sentence description. Place the entry in the correct star-sorted position.
 4. 🚀 **Commit your changes**: `git commit -m "feat: add NewTool to open-source ecosystem"`
 5. 📤 **Push and submit a Pull Request**.
 
