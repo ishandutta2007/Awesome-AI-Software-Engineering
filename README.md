@@ -4,11 +4,12 @@
 
 # 🚀 Awesome AI Software Engineering
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-how-to-contribute)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-emerald.svg)](https://github.com/ishandutta2007/Awesome-AI-Software-Engineering/commits/main)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Software-Engineering?style=social)](https://github.com/ishandutta2007/Awesome-AI-Software-Engineering/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A Curated Index of SaaS Control Planes, Autonomous Coding Agents, Open-Source Frameworks & Spec-Driven SDLC Platforms**
 
@@ -30,6 +31,8 @@
   - [🧬 AI-Native Specification &amp; Multi-Agent Frameworks](#-ai-native-specification--multi-agent-frameworks)
 - [🧠 Emerging AI Software Engineering Paradigms](#-emerging-ai-software-engineering-paradigms)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support &amp; Community](#-support--community)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer &amp; Security Considerations](#-disclaimer--security-considerations)
 - [🏷️ SEO Metadata &amp; Topic Tags](#-seo-metadata--topic-tags)
 
@@ -199,6 +202,26 @@ Contributions are warmly welcomed! Help keep this ecosystem guide up-to-date, fa
 5. 📤 **Push and submit a Pull Request**.
 
 ⭐ *If you find this repository valuable, please consider giving it a star!*
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and supporting the **Awesome AI Software Engineering** ecosystem! 
+
+If you find this repository helpful:
+- ⭐ **Star this repository** to help other engineers, platform teams, and architects discover it!
+- 🍴 **Fork and contribute** by adding new tools, benchmarks, or specs.
+- 📢 **Share it** with your network, team, or developer communities.
+- ☕ **Buy a coffee & sponsor**: If you would like to support ongoing maintenance, research, and curation of open-source resources, please consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Software-Engineering&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Software-Engineering&type=date&legend=top-left)
 
 ---
 
