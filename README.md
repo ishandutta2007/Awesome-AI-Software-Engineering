@@ -161,6 +161,9 @@ Open-source solutions provide developer autonomy, self-hosted data isolation, an
 
 ### 🧬 AI-Native Specification & Multi-Agent Frameworks
 
+- **[Orbi](https://github.com/orbi-build/orbi)** [![GitHub Stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)](https://github.com/orbi-build/orbi/stargazers)  
+  AGPL-3.0, self-hostable issue-to-release agent: isolated worktrees, independent acceptance review, merged PRs, and tagged releases. [Website](https://orbi.build/).
+
 These tools power the emerging **Spec-Driven Development (SDD)** paradigm—turning issues and requirements into structured Markdown specifications and automated agent pipelines:
 
 - **[GitHub Spec Kit](https://github.com/github/spec-kit)** 📘  
